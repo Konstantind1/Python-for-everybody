@@ -1,4 +1,4 @@
-def getfile(words compilations):
+def getfile(words compilation):
     with open (words compilation,encoding ="utf-8") as f:
         mots=text.split()
         syntax=.!?;:""-
