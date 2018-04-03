@@ -1,0 +1,12 @@
+morning@gmail.com
+afternoon@gmail.com
+evening@gmail.com
+night@gmail.com
+morning@mail.ru
+afternoon@mail.ru
+evening@mail.ru
+night@mail.ru
+morning@yandex.ru
+afternoon@yandex.ru
+evening@yandex.ru
+night@yandex.ru
